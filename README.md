@@ -67,3 +67,7 @@ These changes can be restored with:
 ``` git
 git stash pop
 ```
+### Change last commit message  
+``` git
+git commit --amend -m 'New commit message'
+```
