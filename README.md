@@ -58,3 +58,12 @@ git push [origin] [branch to push to]
 git push -u [origin] [branch to push to]
 ```
 This will remember the parameters, so next time we push (or pull), we only need to type **git push** (or pull).
+
+### Temporarily store changes  
+``` git
+git stash
+```
+These changes can be restored with:  
+``` git
+git stash pop
+```
