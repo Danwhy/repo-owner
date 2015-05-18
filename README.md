@@ -11,15 +11,15 @@ Github is an online, git based hosting service.
 
 ### What it is
 Github flow is made up of five steps
-1. Create a branch  
+* Create a branch  
  * Create a branch from the master with a name  that describes the feature being implemented.  
-2. Add commits  
+* Add commits  
  * Each time a change is made, commit the change with a message describing what you've done.  
-3. Open a pull request  
+* Open a pull request  
  * Open a pull request when you want to share your code with your other team members.  
-4. Discuss and review  
+* Discuss and review  
  * Other team members can leave comments on your proposed changes  
-5. Merge and deploy  
+* Merge and deploy  
  * Once the code has been reviewed, it should be merged with the master branch. This code should be deployable, and deployed immediately.
 
 ### Benefits  
